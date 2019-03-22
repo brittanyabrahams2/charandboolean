@@ -1,0 +1,2 @@
+# charandboolean
+prints specific char
